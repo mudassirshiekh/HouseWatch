@@ -9,6 +9,7 @@
 
 
 ## 📈 Open source tool for monitoring and managing ClickHouse clusters
+## Mudassir Alam
 
 - Get an overview of cluster load and performance
 - Drill down into your queries and understand the load they put on your cluster
